@@ -1,4 +1,4 @@
-# MoodleCaptura de pantalla de 2025-03-21 14-11-28.png
+# Moodle
 Desde hace unas semanas, he hecho un Moodle a través de una maquina virtual de Linux, a continuación os explicaré todo lo que hice
 ## Configuración Inicial
 Primero, tuve que crear mi cuenta y hacer las primeras configuraciones para poder entrar a Moodle, como el nombre de usuario, contraseña entre otros
@@ -48,6 +48,6 @@ Luego quise crear mas usuarios con un archivo CSV, para ello fui a Subir Usuario
 ![text alternatiu](27.png)
 ![text alternatiu](28.png)
 ![text alternatiu](29.png)
-
+Después, borré un par de usuarios
 
 
