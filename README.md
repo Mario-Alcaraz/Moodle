@@ -48,6 +48,12 @@ Luego quise crear mas usuarios con un archivo CSV, para ello fui a Subir Usuario
 ![text alternatiu](27.png)
 ![text alternatiu](28.png)
 ![text alternatiu](29.png)
-Después, borré un par de usuarios
-
-
+Después, borré un par de usuarios, para ello fui al apartado de Usuarios, Acciones de usuarios masivas y seleccione los usuarios que queria borrar clicando en su usuario y dandole a Añadir a la seleccion y despues de seleccionar dos usuarios, bajé a abajo, a la opción Con los usuarios seleccionados y seleccione la opción borrar y le di a la opción Ir.
+![text alternatiu](27.png)
+![text alternatiu](30.png)
+![text alternatiu](31.png)
+Despues de esto, hice unos ajustes en mis cursos, primero, hice que en mi curso A, no haya posibilidad de inscripcion, para ello, en mi curso, fui a Participantes, Metodos de inscripción y comprobé que el ojo de la derecha, solo saliera sin rayas en la primera opción, es decir, en Matriculación Manual.
+También hice que en el curso B active la opcion de Acceso de invitados para ello fui a esa opción y le quité la raya del medio del ojo.
+![text alternatiu](32.png)
+![text alternatiu](33.png)
+![text alternatiu](34.png)
