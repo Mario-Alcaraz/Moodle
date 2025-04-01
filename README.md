@@ -1,4 +1,4 @@
-# Moodle
+# MoodleCaptura de pantalla de 2025-03-21 14-11-28.png
 Desde hace unas semanas, he hecho un Moodle a través de una maquina virtual de Linux, a continuación os explicaré todo lo que hice
 ## Configuración Inicial
 Primero, tuve que crear mi cuenta y hacer las primeras configuraciones para poder entrar a Moodle, como el nombre de usuario, contraseña entre otros
@@ -28,3 +28,26 @@ Después de eso, cambié mi nombre del sitio e hice que la página principal no 
 Luego, quise comprobar que la hora del Moodle es la correcta, para ello fui a Administración del sitio, Ubicación y a Zona horaria por defecto
 ![text alternatiu](14.png)
 ![text alternatiu](13.png)
+Después, queria comprobar como cambiar el idioma de mi Moodle, parta ello fui a Idiomas, a Ajustes de idioma y a Idioma por defecto
+![text alternatiu](15.png)
+![text alternatiu](16.png)
+Después, quise cambiar la longitud mínima de contraseñas, para ello fui a Seguridad y a Politicas de seguridad del sitio y cambié el apartado Longitud de la contraseña a 4.
+![text alternatiu](15.png)
+![text alternatiu](17.png)
+Luego cree un par de cursos, para crearlos fui a Crear Curso y rellené las opciones necesarias, creé dos cursos, uno llamado A y otro llamado B
+![text alternatiu](21.png)
+![text alternatiu](22.png)
+![text alternatiu](23.png)
+
+Después le metí un poco de contenido a uno de ms cursos, metiendo una actividad avaluable
+![text alternatiu](24.png)
+Luego quise crear un usuario, para ello fui a Usuarios, Crear un nuevo usuario y le puse de nombre bob
+![text alternatiu](25.png)
+![text alternatiu](26.png)
+Luego quise crear mas usuarios con un archivo CSV, para ello fui a Subir Usuarios y puso un archivo donde estaban todos mis usuarios configurados
+![text alternatiu](27.png)
+![text alternatiu](28.png)
+![text alternatiu](29.png)
+
+
+
