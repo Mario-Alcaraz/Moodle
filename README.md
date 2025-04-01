@@ -57,3 +57,20 @@ También hice que en el curso B active la opcion de Acceso de invitados para ell
 ![text alternatiu](32.png)
 ![text alternatiu](33.png)
 ![text alternatiu](34.png)
+Después de esto, quise meter a uno de mis alumnos como profesor del curso B y como alumnos, los que meti antes en el archivo CSV, para ello fui a mi curso, Participantes, Matricular usuarios y matriculé a los que puse antes, y después, puse a Bob toronja como profesor.
+![text alternatiu](35.png)
+![text alternatiu](36.png)
+![text alternatiu](37.png)
+Después quise comprobar que en el curso A, necesitas iniciar sesión y que se puede entrar en el B sin iniciar sesión,para ello me puse en invitado y fui a los cursos y efectivamente asi era.
+![text alternatiu](38.jpeg)
+![text alternatiu](39.jpeg)
+Después de eso le quise cambiar el tema, para ello fui a Administración del sitio, Apariencia, Temas y cambié el tema al clasico.
+![text alternatiu](40.png)
+![text alternatiu](41.png)
+![text alternatiu](42.png)
+Después de eso, asigné un profesor, el cual decidí ponerme a mi mismo y matriculé a los demás alumnos, de la misma manera que en el curso B
+![text alternatiu](43.png)
+Después de eso, meti una actividad que tenags que enviar un PDF, para ello me meti en la actividad y en Tipos de archivos aceptados le di a elegir y escogi PDF.
+![text alternatiu](44.png)
+![text alternatiu](45.png)
+Despues de esto, quise comprobar que puedo entregar actividades, me meti en la cuenta de Didac Rubio y entregué la actividad
