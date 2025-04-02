@@ -74,3 +74,24 @@ Después de eso, meti una actividad que tenags que enviar un PDF, para ello me m
 ![text alternatiu](44.png)
 ![text alternatiu](45.png)
 Despues de esto, quise comprobar que puedo entregar actividades, me meti en la cuenta de Didac Rubio y entregué la actividad
+![text alternatiu](46.png)
+
+## Configuraciones extra
+Después de todos estos pasos, quise hacer otro tipo de cosas, empecé acabando mi curso A, en el que metí: una unidad formativa, con dos nucleos formativas, y dentro de cada nucleo he puesto un pdf de teoria, una actividad evaluable y un examen.
+![Captura de pantalla de 2025-04-02 12-11-07](https://github.com/user-attachments/assets/83d7c9ce-1af9-416c-98ef-6b3fc1278a82)
+Para los examenes, lo que hice fue crear un cuestionario en el nucleo formativo que sea, y entré a este cuestionario, le di a Agregar Pregunta, a Agregar y a Agregar una nueva pregunta e hice 5 preguntas de opción mútliple con una opción correcta, después de crear las preguntas, fui de nuevo a Agregar y a del banco de preguntas y seleccioné las preguntas que habia creado anteriormente, después hice el test para comprobar que todo estuviera bien, cosa que sucedió.
+![Captura de pantalla de 2025-04-02 12-31-04](https://github.com/user-attachments/assets/85659d89-d303-49c1-8794-cf8b5a63b522)
+![Captura de pantalla de 2025-04-02 12-31-27](https://github.com/user-attachments/assets/4dd293e3-3571-466b-a02a-fdb342223157)
+![Captura de pantalla de 2025-04-02 12-31-32](https://github.com/user-attachments/assets/008fc90e-6ff8-4afa-bedb-fae9daf3a90e)
+![Captura de pantalla de 2025-04-02 12-31-43](https://github.com/user-attachments/assets/b4b04d84-e905-4b65-bf6a-e7e411522de8)
+![Captura de pantalla de 2025-04-02 12-13-13](https://github.com/user-attachments/assets/3eebe5c6-aebf-4e4d-82eb-292a7243fc69)
+![Captura de pantalla de 2025-04-02 12-13-48](https://github.com/user-attachments/assets/f8241d2a-c086-4974-9ad3-ec0e1daf235a)
+
+Después de esto, quise importar todo lo que tenia en el curso A al curso B, para ello fui al curso B, y en Reutilización del curso, le di a Importar, seleccioné el curso A y fui configurando la importación hasta importar el curso.
+![Captura de pantalla de 2025-04-02 12-18-15](https://github.com/user-attachments/assets/8b443d45-6d66-4d19-9891-7ee387c3bd6f)
+![Captura de pantalla de 2025-04-02 12-18-30](https://github.com/user-attachments/assets/5803030e-952b-4dc0-a5a7-ddcfc80a0940)
+![Captura de pantalla de 2025-04-02 12-18-50](https://github.com/user-attachments/assets/96295c8a-dd9f-4f9a-880c-7d77019ee0f5)
+![Captura de pantalla de 2025-04-02 12-19-39](https://github.com/user-attachments/assets/ee82e06a-c759-429e-80bd-bafb6fa75efe)
+![Captura de pantalla de 2025-04-02 12-19-50](https://github.com/user-attachments/assets/013b2393-f9be-4f91-822f-e3156d9fcd8f)
+![Captura de pantalla de 2025-04-02 12-20-13](https://github.com/user-attachments/assets/17aa9f50-4255-4fd1-a81e-4e5f92482367)
+Después, hice que Didac Rubio, entregue todas las actividades y examenes y que viera su nota en el apartado Calificaciones.
