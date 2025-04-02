@@ -88,10 +88,42 @@ Para los examenes, lo que hice fue crear un cuestionario en el nucleo formativo 
 ![Captura de pantalla de 2025-04-02 12-13-48](https://github.com/user-attachments/assets/f8241d2a-c086-4974-9ad3-ec0e1daf235a)
 
 Después de esto, quise importar todo lo que tenia en el curso A al curso B, para ello fui al curso B, y en Reutilización del curso, le di a Importar, seleccioné el curso A y fui configurando la importación hasta importar el curso.
+
 ![Captura de pantalla de 2025-04-02 12-18-15](https://github.com/user-attachments/assets/8b443d45-6d66-4d19-9891-7ee387c3bd6f)
+
 ![Captura de pantalla de 2025-04-02 12-18-30](https://github.com/user-attachments/assets/5803030e-952b-4dc0-a5a7-ddcfc80a0940)
+
 ![Captura de pantalla de 2025-04-02 12-18-50](https://github.com/user-attachments/assets/96295c8a-dd9f-4f9a-880c-7d77019ee0f5)
+
 ![Captura de pantalla de 2025-04-02 12-19-39](https://github.com/user-attachments/assets/ee82e06a-c759-429e-80bd-bafb6fa75efe)
+
 ![Captura de pantalla de 2025-04-02 12-19-50](https://github.com/user-attachments/assets/013b2393-f9be-4f91-822f-e3156d9fcd8f)
+
 ![Captura de pantalla de 2025-04-02 12-20-13](https://github.com/user-attachments/assets/17aa9f50-4255-4fd1-a81e-4e5f92482367)
+
 Después, hice que Didac Rubio, entregue todas las actividades y examenes y que viera su nota en el apartado Calificaciones.
+![Captura de pantalla_2-4-2025_144850_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/47ce05f0-fa1d-45a5-ae9a-b0d6416711a2)
+![Captura de pantalla_2-4-2025_145055_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/2dc7f092-cfbe-46ce-be2b-cbd7f9846f11)
+   
+Después, quise crear una insignia para todos los profesores, que solo estoy yo, para ello fui a Insignias, Añadir una nueva insignia, le puse un nombre, descripción e imagen
+
+![Captura de pantalla_2-4-2025_161635_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/6c4f315c-4815-4eb1-8f98-a7584cee33f5)
+
+![Captura de pantalla_2-4-2025_161626_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/b7bea895-4afc-4f55-98d8-9eb5cef3a02f)
+
+![Captura de pantalla_2-4-2025_162925_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/f374b25c-835d-4011-9256-e776d9dc7638)
+
+![Captura de pantalla_2-4-2025_1698_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/8fa1e288-7eaa-4c42-894a-a174e9a285b9)
+
+![Captura de pantalla_2-4-2025_16948_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/c53cdf5f-45a1-4582-9af9-214fb86361e7)
+
+![Captura de pantalla_2-4-2025_16959_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/ffdb6b23-0d85-4b74-bc2e-f4eb89e97598)
+
+![Captura de pantalla_2-4-2025_161035_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/8ed9ee6f-9f29-472e-a3ad-f2b5ac3cac60)
+
+![Captura de pantalla_2-4-2025_161050_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/88345134-cb3f-4f7b-a21e-cf05b3cc8c6a)
+
+![Captura de pantalla_2-4-2025_161112_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/bb461231-c6fc-4034-b6a5-3273f08fa3b4)
+
+![Captura de pantalla_2-4-2025_161211_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/e90d05fb-4f66-46d4-a9c8-dc80c675b2e4)
+
