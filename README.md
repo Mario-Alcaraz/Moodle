@@ -105,7 +105,7 @@ Después, hice que Didac Rubio, entregue todas las actividades y examenes y que 
 ![Captura de pantalla_2-4-2025_144850_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/47ce05f0-fa1d-45a5-ae9a-b0d6416711a2)
 ![Captura de pantalla_2-4-2025_145055_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/2dc7f092-cfbe-46ce-be2b-cbd7f9846f11)
    
-Después, quise crear una insignia para todos los profesores, que solo estoy yo, para ello fui a Insignias, Añadir una nueva insignia, le puse un nombre, descripción e imagen
+Después, quise crear una insignia para todos los profesores, que solo estoy yo, para ello fui a Insignias, Añadir una nueva insignia, le puse un nombre, descripción e imagen, después de crearla, le das a criterios y en caso de querer hacer una insignia a un profesor, le das a elegir en Añadir criterios para las insignias y le das a la opción Concesión manual por rol, después a Hablitar acceso, después, en tu insignia le das a los 3 puntos y a la opción Otorgar insignia, donde te salen los alumnos y profesores, le das al que quieras y le das a Otorgar insignias, y con eso ya estaria.
 
 ![Captura de pantalla_2-4-2025_161635_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/6c4f315c-4815-4eb1-8f98-a7584cee33f5)
 
