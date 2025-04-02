@@ -111,9 +111,9 @@ Después, quise crear una insignia para todos los profesores, que solo estoy yo,
 
 ![Captura de pantalla_2-4-2025_161626_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/b7bea895-4afc-4f55-98d8-9eb5cef3a02f)
 
-![Captura de pantalla_2-4-2025_162925_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/f374b25c-835d-4011-9256-e776d9dc7638)
-
 ![Captura de pantalla_2-4-2025_1698_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/8fa1e288-7eaa-4c42-894a-a174e9a285b9)
+
+![Captura de pantalla_2-4-2025_162925_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/f374b25c-835d-4011-9256-e776d9dc7638)
 
 ![Captura de pantalla_2-4-2025_16948_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/c53cdf5f-45a1-4582-9af9-214fb86361e7)
 
