@@ -34,7 +34,7 @@ Después de eso, cambié mi nombre del sitio e hice que la página principal no 
 ![text alternatiu](9.png)
 
 ![text alternatiu](10.png)
-
+curso
 ![text alternatiu](11.png)
 
 ![text alternatiu](12.png)
@@ -177,7 +177,7 @@ Después de esto, quise importar todo lo que tenía en el curso A al curso B, pa
 
 ![Captura de pantalla de 2025-04-02 12-18-15](https://github.com/user-attachments/assets/8b443d45-6d66-4d19-9891-7ee387c3bd6f)
 
-![Captura de pantalla de 2025-04-02 12-18-30](https://github.com/user-attachments/assets/5803030e-952b-4dc0-a5a7-ddcfc80a0940)
+![Captura de pantalla de 2025-04-02 1curso2-18-30](https://github.com/user-attachments/assets/5803030e-952b-4dc0-a5a7-ddcfc80a0940)
 
 ![Captura de pantalla de 2025-04-02 12-18-50](https://github.com/user-attachments/assets/96295c8a-dd9f-4f9a-880c-7d77019ee0f5)
 
@@ -196,7 +196,7 @@ Después, hice que Didac Rubio, entregue todas las actividades y exámenes y que
 
 ## Insignias   
 Después, quise crear una insignia para todos los profesores, que solo estoy yo, para ello fui a **Insignias**, **Añadir una nueva insignia**, le puse un nombre, descripción e imagen, después de crearla, le das a criterios y en caso de querer hacer una insignia a un profesor, le das a elegir en **Añadir criterios para las insignias** y le das a la opción **Concesión manual por rol**, después a **Habilitar acceso**, después, en tu insignia le das a los 3 puntos y a la opción **Otorgar insignia**, donde te salen los alumnos y profesores, le das al que quieras y le das a **Otorgar insignias**, y con eso ya estaría.
-
+curso
 ![Captura de pantalla_2-4-2025_161635_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/6c4f315c-4815-4eb1-8f98-a7584cee33f5)
 
 ![Captura de pantalla_2-4-2025_161626_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/b7bea895-4afc-4f55-98d8-9eb5cef3a02f)
@@ -217,3 +217,17 @@ Después, quise crear una insignia para todos los profesores, que solo estoy yo,
 
 ![Captura de pantalla_2-4-2025_161211_elmeuescriptori gestioeducativa gencat cat](https://github.com/user-attachments/assets/e90d05fb-4f66-46d4-a9c8-dc80c675b2e4)
 
+## Copia de seguridad
+Para hacer una copia de seguridad de mi curso fui a uno de mis cursos, a **Reutilización del curso**, **Importar**, hice los ajustes necesarios, también modifiqué el nombre del archivo y cuando lo tenía todo listo, le di a **Ejecutar copia de seguridad**.
+![Captura de pantalla de 2025-04-03 10-22-29](https://github.com/user-attachments/assets/873cab0a-3356-4c7b-bf16-a50096e6cfbe)
+![Captura de pantalla de 2025-04-03 10-22-47](https://github.com/user-attachments/assets/af1130ff-a885-4909-b597-b13b1fc12d29)
+![Captura de pantalla de 2025-04-03 10-23-15](https://github.com/user-attachments/assets/53fe56ba-c973-4c90-b758-52b88bee60ac)
+![Captura de pantalla de 2025-04-03 10-23-20](https://github.com/user-attachments/assets/b04afea3-9368-441a-a3b6-f4105e9eabe6)
+![Captura de pantalla de 2025-04-03 10-23-25](https://github.com/user-attachments/assets/64c34bb5-78d7-441b-acc8-a184f06ac110)
+## Seguridad
+Finalmente, quise banear una dirección IP, para ello fui a **Administración del curso**, **Bloqueador de IP** y en la sección **Listas de IPs bloqueadas**, puse una dirección IP para bloquearla, finalmente, le di a **Guardar cambios**.
+Luego de esto, quise aplicar una política de seguridad, para ello fui a **Seguridad**, **Politicas de seguridad del sitio** y activé la opción **Abrir a Google**, que estaba desactivada.
+![Captura de pantalla de 2025-04-03 13-09-30](https://github.com/user-attachments/assets/1b692229-151e-4467-b97d-68a5f1273705)
+![Captura de pantalla de 2025-04-03 13-10-18](https://github.com/user-attachments/assets/8e07cc7b-bb16-4f52-8af0-b11cc0c3a4f9)
+![Captura de pantalla de 2025-04-03 13-13-10](https://github.com/user-attachments/assets/0beb4207-622b-490a-b28d-0c7912da1bab)
+![Captura de pantalla de 2025-04-03 13-13-27](https://github.com/user-attachments/assets/77339a3d-fa0b-40d6-ad15-f1620b148049)
